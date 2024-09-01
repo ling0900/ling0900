@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&width=500&height=60&lines=Hi;I+am+Ling)](https://git.io/typing-svg)
+![](https://streak-stats.demolab.com?user=ling0900&theme=radical&hide_border=true&show_icons=true&layout=compact)
 
 <!--
 **ling0900/ling0900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
