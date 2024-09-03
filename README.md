@@ -1,5 +1,7 @@
 ## Hi there 👋
 [![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&width=500&height=60&lines=Hi;I+am+Ling)](https://git.io/typing-svg)
+## 🔭至今4年开发经验。
+---
 ![](https://streak-stats.demolab.com?user=ling0900&theme=radical&hide_border=true&show_icons=true&layout=compact)
 
 <!--
