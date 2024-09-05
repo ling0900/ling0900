@@ -8,6 +8,13 @@
 
 ![](https://streak-stats.demolab.com?user=ling0900&theme=radical&hide_border=true&show_icons=true&layout=compact)
 
+
+<p align="center"> 
+  Visitors Count<br>
+  
+  <img src="https://profile-counter.glitch.me/ling0900/count.svg" />
+</p>
+
 <!--
 **ling0900/ling0900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
