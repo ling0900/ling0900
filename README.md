@@ -1,9 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ling0900&label=Profile%20views&color=0e75b6&style=flat" alt="ling0900" /> </p>
 
-## Hi there 👋
+##  👋
 [![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&width=500&height=60&lines=Hi;I+am+Ling)](https://git.io/typing-svg)
 
-- 🔭至今4年+开发经验。
+### 🔭至今4年+开发经验。
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ling0900" alt="ling0900" /></a> </p>
 
 ### ✨我今年的努力✨
