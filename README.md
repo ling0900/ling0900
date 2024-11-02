@@ -5,7 +5,9 @@
 
 ### 🔭至今4年+开发经验。
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ling0900" alt="ling0900" /></a> </p>
-todo：Spring框架的源码，还有一些有待仔细研究的。
+todo：
+Spring框架的源码，还有一些有待仔细研究的；
+计划把之前的博客上线，不上线总感觉缺点啥（暂时不开源）。
 
 
 
