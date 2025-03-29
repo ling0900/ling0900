@@ -3,7 +3,7 @@
 ##  👋
 [![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&width=500&height=60&lines=Hi;I+am+Ling)](https://git.io/typing-svg)
 
-### 🔭至今4年+开发经验。
+### 🔭至今4.5年+开发经验。
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ling0900" alt="ling0900" /></a> </p>
 todo：
 Spring框架的源码，还有一些有待仔细研究的；
