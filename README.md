@@ -3,13 +3,10 @@
 ##  👋
 [![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&width=500&height=60&lines=Hi;I+am+Ling)](https://git.io/typing-svg)
 
-### 🔭至今4.5年+开发经验。
+### 🔭 至今5年+开发经验。
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lingmeme" alt="lingmeme" /></a> </p>
-todo：
-Spring框架的源码，还有一些有待仔细研究的；
-计划把之前的博客上线，不上线总感觉缺点啥（暂时不开源）。
 
-
+### 🔭 最近在研究AI 🤔
 
 ### ✨我今年的努力✨
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=lingmeme&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingmeme&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
